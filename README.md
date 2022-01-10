@@ -1,2 +1,15 @@
 # hang-up-your-hangups
+
+# bemoeizorg
+https://nl.wikipedia.org/wiki/Bemoeizorg
+
+# psychiatrist
+https://en.wikipedia.org/wiki/Psychiatrist
+
+# mutilation
+https://en.wikipedia.org/wiki/Mutilation
+
+# isoleercel
+https://nl.wikipedia.org/wiki/Isoleercel
+
 doctor nekschot in action
